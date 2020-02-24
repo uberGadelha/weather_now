@@ -1,0 +1,25 @@
+body {
+   background-color: #4FA1EE;
+   font: normal 15pt Arial;
+}
+
+header {
+   color: #FFF;
+   text-align: center;
+}
+
+.section {
+   background-color: #FFF;
+   border-radius: 10px;
+   padding: 20px;
+   width: 50%;
+   margin: auto;
+   /*RULES OF THE SHADOW*/
+   box-shadow: 3px 3px 10px RGBA(0, 0, 0, 0.500);
+}
+
+.footer {
+   color: #FFF;
+   font-size: 17pt;
+   text-align: center;
+}

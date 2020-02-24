@@ -1,18 +1,23 @@
 body {
-   background-color: #4FA1EE;
+   background-color: #4FA1EE; 
    font: normal 15pt Arial;
 }
 
 header {
    color: #FFF;
    text-align: center;
+   padding-top: 20px;
+}
+
+.title {
+   margin-top: 0px;
 }
 
 .section {
    background-color: #FFF;
    border-radius: 10px;
    padding: 20px;
-   width: 50%;
+   width: 25%;
    margin: auto;
    /*RULES OF THE SHADOW*/
    box-shadow: 3px 3px 10px RGBA(0, 0, 0, 0.500);
